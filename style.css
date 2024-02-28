@@ -1,0 +1,18 @@
+.body{
+    background-color: greenyellow;
+}
+
+.score{
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+.time_limit{
+    font-size: 30px;
+    float:right;
+    margin-right: 150px;
+}
+
+.update_name{
+    text-decoration-color: lightcoral;
+}
